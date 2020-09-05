@@ -1,0 +1,58 @@
+{
+	"geke": {
+		"dishwasherScore": 0,
+		"garbageScore": 0,
+		"glassScore": 0,
+		"paperScore": 0,
+		"plasticScore": 0,
+		"password": "geke1234"
+	},
+	"luuk": {
+		"dishwasherScore": 0,
+		"garbageScore": 0,
+		"glassScore": 0,
+		"paperScore": 0,
+		"plasticScore": 0,
+		"password": "luuk1234"
+	},
+	"pieter": {
+		"dishwasherScore": 0,
+		"garbageScore": 0,
+		"glassScore": 0,
+		"paperScore": 0,
+		"plasticScore": 0,
+		"password": "pieter1234"
+	},
+	"amber": {
+		"dishwasherScore": 0,
+		"garbageScore": 0,
+		"glassScore": 0,
+		"paperScore": 0,
+		"plasticScore": 0,
+		"password": "amber1234"
+	},
+	"daira": {
+		"dishwasherScore": 0,
+		"garbageScore": 0,
+		"glassScore": 0,
+		"paperScore": 0,
+		"plasticScore": 0,
+		"password": "daira1234"
+	},
+	"dennis": {
+		"dishwasherScore": 0,
+		"garbageScore": 0,
+		"glassScore": 0,
+		"paperScore": 0,
+		"plasticScore": 0,
+		"password": "dennis1234"
+	},
+	"patrick": {
+		"dishwasherScore": 0,
+		"garbageScore": 0,
+		"glassScore": 0,
+		"paperScore": 0,
+		"plasticScore": 0,
+		"password": "patrick1234"
+	}
+}
