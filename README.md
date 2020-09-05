@@ -1,4 +1,4 @@
-# nuxt-express
+# Huize Sassas score counter
 
 ## Build Setup
 
